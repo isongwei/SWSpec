@@ -1,0 +1,2 @@
+# SWSpec
+podspec
